@@ -1,0 +1,10 @@
+---
+applications:
+- name: pcf-rabbitmq-demo
+  memory: 1G
+  instances: 1
+  host: pcf-rabbitmq-demo
+  path: ./target/pcf-rabbitmq-demo.war
+  buildpack: java_buildpack_offline
+  services:
+  - rabbit
