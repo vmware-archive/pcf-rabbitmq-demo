@@ -1,4 +1,4 @@
-
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>
 ## Credits
 
 Initial work was at https://github.com/Pivotal-Field-Engineering/PCF-demo.git but that was not maintained with newer versions of Spring
